@@ -16,7 +16,7 @@ set autoindent    " always set autoindenting on
 
 " set font
 if has('gui_running')
-   set guifont=-adobe-courier-medium-r-normal--18-180-75-75-m-110-iso8859-10
+   set guifont=Courier\ 10\ Pitch\ 15 
 endif
 
 " When searching try to be smart about cases 
